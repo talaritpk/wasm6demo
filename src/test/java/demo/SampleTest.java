@@ -8,6 +8,8 @@ public class SampleTest {
 	public void sampleTest()
 	{
 		System.out.println("This is sample test");
+		
+		System.out.println("This is maven project from user 1");
 	}
 
 }
